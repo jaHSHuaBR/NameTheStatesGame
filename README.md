@@ -1,4 +1,5 @@
 # NameTheStatesGame
+    A game created using Python, Turtle Graphics, and Pandas where player must try to name all the states.
     
 __-| NAME THE STATES |-__
 
